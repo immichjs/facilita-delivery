@@ -1,5 +1,5 @@
 <template>
-  <section class="flex justify-between">
+  <section class="flex justify-between bg-zinc-50">
     <NavBar></NavBar>
     <PaymentCart></PaymentCart>
   </section>
